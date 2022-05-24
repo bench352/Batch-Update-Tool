@@ -30,11 +30,11 @@ To install this Add-in to your computer:
 2. Enable this Add-in in Microsoft Excel
 3. Add the Macros to your Quick Access Toolbar to access it
 
-You can refer to the [Installation Guide](./Documentation/Installation Guide.md) for a step-by-step tutorial on installing this Add-in to your computer.
+You can refer to the [Installation Guide](Documentation/Installation%20Guide.md) for a step-by-step tutorial on installing this Add-in to your computer.
 
 ## Issues?
 
-Though there are no known bugs so far, the exception handling is not implemented in this program comprehensively, so a wrong input can cause the program to crash. Please follow the [User Guide](./Documentation/User Guide.md) to get started with the program and learn how to operate the program correctly.
+Though there are no known bugs so far, the exception handling is not implemented in this program comprehensively, so a wrong input can cause the program to crash. Please follow the [User Guide](Documentation/User%20Guide.md) to get started with the program and learn how to operate the program correctly.
 
 For any issues regarding the program, please don't hesitate and write an email to [benchoy352@gmail.com](mailto:benchoy352@gmail.com).
 
