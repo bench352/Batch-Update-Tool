@@ -26,7 +26,7 @@
 
 To install this Add-in to your computer:
 
-1. Download  `Batch Update Tool.xlam` to your computer
+1. Download  [Batch Update Tool.xlam](Batch%20Update%20Tool.xlam) to your computer
 2. Enable this Add-in in Microsoft Excel
 3. Add the Macros to your Quick Access Toolbar to access it
 
