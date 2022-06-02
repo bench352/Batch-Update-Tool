@@ -20,7 +20,7 @@ This User Guide aims to provide comprehensive instruction on all the features an
 
 ## Get Started
 
-If you have already installed the Add-in to your computer based on the [Installation Guide](./Installation Guide.md), you can start using it by clicking the **\[batch_update_tool\]** at the Quick Access Toolbar to access the Configuration form. Another option is **\[quick_action\]**, which brings you to the Quick Actions list. More on that later.
+If you have already installed the Add-in to your computer based on the [Installation Guide](./Installation%20Guide.md), you can start using it by clicking the **\[batch_update_tool\]** at the Quick Access Toolbar to access the Configuration form. Another option is **\[quick_action\]**, which brings you to the Quick Actions list. More on that later.
 
 ![image-20220523185921800](User%20Guide.assets/image-20220523185921800.png)
 
